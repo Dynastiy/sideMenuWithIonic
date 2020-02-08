@@ -1,0 +1,7 @@
+{
+  "name": "budgeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
